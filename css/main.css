@@ -28,20 +28,23 @@ header {
 /*---------- CONTENT AREA ----------*/
 
 .col-3 {
-  width: 100%;
+  width: 50%;
   height: 320px;
   float: left;
 }
 
 #column-1 {
+  width: 33.3%;
   background: #ff0000;
 }
 
 #column-2 {
+  width: 33.3%;
   background: #0066ff;
 }
 
 #column-3 {
+  width: 33.3%;
   background: #ffff00;
 }
 
@@ -64,14 +67,17 @@ footer {
   }
 
   #column-1 {
+    width: 33.3%;
     background-color: #660066;
   }
 
   #column-2 {
+    width: 33.3%;
     background-color: #ff66ff;
   }
 
   #column-3 {
+    width: 33.3%;
     background-color: #ffccff;
   }
 
@@ -89,14 +95,17 @@ footer {
   }
 
   #column-1 {
+    width: 33.3%;
     background-color: #80ff80;
   }
 
   #column-2 {
+    width: 33.3%;
     background-color: #00ff00;
   }
 
   #column-3 {
+    width: 33.3%;
     background-color: #00cc00;
   }
 
